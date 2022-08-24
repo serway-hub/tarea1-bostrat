@@ -1,0 +1,25 @@
+.image2{
+    width: 100%;
+    height: 450px;
+}
+
+.image_carr{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.img-fluid{
+    height: 230px;
+    width: 230px;
+}
+
+.item_image{
+    margin: 10px;
+}
+
+.productos{
+    text-align: center;
+}
